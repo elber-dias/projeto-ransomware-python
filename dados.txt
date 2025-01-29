@@ -1,0 +1,12 @@
+CRIA ARQUIVO A SER CRIPTOGRAFADO E POSTERIORMENTE DESCRIPTOGRAFADO
+
+* As informações abaixo são para a criação do arquivo "dados.txt"
+
+(user-kaly@kali-vbox)-[~]
+$ nano dados.txt
+
+Este arquivo sera criptografado e posteriormente descriptografado por um ransomware criado em Python.
+
+## SALVAR O ARQUIVO E SAIR DO NANO ##
+ctrl o
+crtl x
